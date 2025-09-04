@@ -1,6 +1,6 @@
 # Hi — I'm Leo 👋  
 **:argentina: Argentinian | Based in Tokyo :jp:**  
-Aspiring Software Developer  
+Aspiring Software Developer
 
 Currently transitioning from 4 years in **hospitality** to **tech**.  
 This October I’m joining the [Le Wagon Tokyo Software Development & AI Bootcamp](https://www.lewagon.com/tokyo) to level up my skills.  
@@ -11,9 +11,23 @@ That mindset is what helped me start from scratch, move across the world, and ke
 ---
 
 ## 🌱 Right now
-- Wrapping up **Le Wagon prepwork** (HTML, CSS, Ruby, Javascript, Git)  
+- Wrapping up **Le Wagon prepwork** (HTML, CSS, Ruby, JavaScript, Git)  
 - Practicing small projects + notes in repos  
 - Getting ready for full-stack and AI projects during bootcamp  
+
+---
+
+## 🛠️ Currently learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Terminal-%23000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal/Bash" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 ---
 
@@ -32,8 +46,16 @@ That mindset is what helped me start from scratch, move across the world, and ke
 
 ---
 
-### 📫 Connect with me  
-- [LinkedIn](https://www.linkedin.com/in/leandro-trabucco/)  
-- [GitHub](https://github.com/LeoCba07)  
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"/> Connect with me 
+
+
+✉️ **leandrotrabucco@hotmail.com**
+
+
+
+
+  
+
+
 
 <sub>Last updated: 2025-09-04</sub>
