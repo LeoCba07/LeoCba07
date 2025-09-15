@@ -12,7 +12,8 @@ That mindset is what helped me start from scratch, move across the world, and ke
 
 ## 🌱 Right now
 - Wrapping up **Le Wagon prepwork** (HTML, CSS, Ruby, JavaScript, Git)  
-- Practicing small projects + notes in repos  
+- Practicing small projects + notes in repos
+- Completing CS50x to strengthen computer science fundamentals  
 - Getting ready for full-stack and AI projects during bootcamp  
 
 ---
