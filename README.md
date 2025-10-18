@@ -11,10 +11,10 @@ That mindset is what helped me start from scratch, move across the world, and ke
 ---
 
 ## 🌱 Right now
-- Wrapping up **Le Wagon prepwork** (HTML, CSS, Ruby, JavaScript, Git)  
-- Practicing small projects + notes in repos
-- Completing CS50x to strengthen computer science fundamentals  
-- Getting ready for full-stack and AI projects during bootcamp  
+- Fully engaged in the intensive Le Wagon Tokyo AI Software Development Bootcamp.
+- Mastering full-stack development by building with Ruby on Rails, PostgreSQL, and the MVC architecture.
+- Actively learning to integrate Large Language Models (LLMs) and AI-assisted coding techniques into applications.
+- Applying Agile methodologies and Test-Driven Development (TDD) principles to prepare for the final Capstone Project launch in December. 
 
 ---
 
