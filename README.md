@@ -1,6 +1,6 @@
 # Hi — I'm Leo 👋  
 **:argentina: Argentinian | Based in Tokyo :jp:**  
-Aspiring Software Developer
+Junior Software Developer
 
 Currently transitioning from 4 years in **hospitality** to **tech**.  
 This October I’m joining the [Le Wagon Tokyo Software Development & AI Bootcamp](https://www.lewagon.com/tokyo) to level up my skills.  
