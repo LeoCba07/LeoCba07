@@ -2,8 +2,8 @@
 **:argentina: Argentinian | Based in Tokyo :jp:**  
 Junior Software Developer
 
-Currently transitioning from 4 years in **hospitality** to **tech**.  
-This October I’m joining the [Le Wagon Tokyo Software Development & AI Bootcamp](https://www.lewagon.com/tokyo) to level up my skills.  
+Transitioning from 4 years in **hospitality** to **tech**.  
+Currently undergoing the [Le Wagon Tokyo Software Development & AI Bootcamp](https://www.lewagon.com/tokyo) to level up my skills.  
 
 💡 I learn best by **building**. My code isn’t perfect yet, but I’m not afraid to ship, break things, and improve.  
 That mindset is what helped me start from scratch, move across the world, and keep growing.  
