@@ -54,14 +54,6 @@ AI-powered interactive storytelling with psychological assessment based on your 
 
 ---
 
-## 💪 What I bring
-- 4 years of experience in fast-paced, international hospitality roles  
-- Strong teamwork, adaptability, and leadership in diverse environments  
-- Clear communication across cultures and languages  
-- Resilience and a growth mindset — I move forward by learning, improving, and staying consistent  
-
----
-
 ### ⚡ Fun facts  
 🏋️‍♂️ Heavy weights enthusiast  
 🎮 Lifelong gamer  
