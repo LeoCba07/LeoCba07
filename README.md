@@ -1,15 +1,16 @@
 # Hi — I'm Leo 👋
-**🇦🇷 Argentinian | Based in Tokyo 🇯🇵**
-**Software Developer**
 
-Transitioning from 4 years in **hospitality** to **tech**.  
-Recently graduated from the [Le Wagon Tokyo Software Development & AI Bootcamp](https://www.lewagon.com/tokyo).
+🇦🇷 Argentinian | 🇯🇵 Based in Tokyo | 💼 Open to work
 
-💡 I learn best by **building**. My code isn't perfect yet, but I'm not afraid to ship, break things, and improve.  
-Actively seeking Software Develpment opportunities in the Greater Tokyo Area
+**Junior Software Developer** transitioning from 4 years in hospitality to tech.  
+Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
+
+💡 I learn best by **building** — my code isn't perfect yet, but I'm not afraid to ship, break things, and improve.
+
 ---
 
 ## 🌱 Right now
+
 - Recently completed the Le Wagon Tokyo AI Software Development Bootcamp
 - Building and polishing portfolio projects with Ruby on Rails and AI integrations
 - Exploring other technologies such as React & TypeScript
@@ -42,25 +43,28 @@ Actively seeking Software Develpment opportunities in the Greater Tokyo Area
 ## 🚀 Projects
 
 ### [Nihongo Hero](https://github.com/ShinOWfu/Nihongo-Hero)
+
 Gamified Japanese learning through RPG combat. Answer vocab questions to defeat enemies.  
 **Stack:** Rails 7, PostgreSQL, Hotwire, VoiceVox API  
 **Live:** [nihongohero.quest](https://nihongohero.quest)
 
 ### [AdventureMaker](https://github.com/ShinOWfu/AdventureMaker)
+
 AI-powered interactive storytelling with psychological assessment based on your choices.  
 **Stack:** Rails 7, PostgreSQL, Google Gemini API
 
 ---
 
-### ⚡ Fun facts  
+## ⚡ Fun facts
+
 🏋️‍♂️ Heavy weights enthusiast  
 🎮 Lifelong gamer  
-☕ Enjoy exploring cafés around Tokyo  
+☕ Enjoy exploring cafés around Tokyo
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"/> Connect with me 
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"/> Connect with me
 
 ✉️ **leandrotrabucco@hotmail.com**
 
-<sub>Last updated: 2025-12-06</sub>
+<sub>Last updated: 2025-12-09</sub>
