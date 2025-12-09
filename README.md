@@ -3,17 +3,16 @@
 **Software Developer**
 
 Transitioning from 4 years in **hospitality** to **tech**.  
-Recently graduated from the [Le Wagon Tokyo Software Development & AI Bootcamp](https://www.lewagon.com/tokyo) to level up my skills.
+Recently graduated from the [Le Wagon Tokyo Software Development & AI Bootcamp](https://www.lewagon.com/tokyo).
 
 💡 I learn best by **building**. My code isn't perfect yet, but I'm not afraid to ship, break things, and improve.  
-That mindset is what helped me start from scratch, move across the world, and keep growing.
-
+Actively seeking Software Develpment opportunities in the Greater Tokyo Area
 ---
 
 ## 🌱 Right now
 - Recently completed the Le Wagon Tokyo AI Software Development Bootcamp
 - Building and polishing portfolio projects with Ruby on Rails and AI integrations
-- Actively seeking Software Develpment opportunities in the Greater Tokyo Area
+- Exploring other technologies such as React & TypeScript
 
 ---
 
