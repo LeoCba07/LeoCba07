@@ -11,9 +11,10 @@ Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](ht
 
 ## 🌱 Right now
 
-- Recently completed the Le Wagon Tokyo AI Software Development Bootcamp
-- Building and polishing portfolio projects with Ruby on Rails and AI integrations
-- Exploring other technologies such as React & TypeScript
+- Actively seeking my first **Junior Developer** role in Tokyo
+- Exploring **React** & **TypeScript** to expand my frontend skills
+- Polishing and adding features to my bootcamp projects
+- Attending Tokyo tech meetups and networking events
 
 ---
 
