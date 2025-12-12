@@ -46,7 +46,7 @@ Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](ht
 ### [Nihongo Hero](https://github.com/ShinOWfu/Nihongo-Hero)
 
 Gamified Japanese learning through RPG combat. Answer vocab questions to defeat enemies.  
-**Stack:** Rails 7, PostgreSQL, Hotwire, VoiceVox API  
+**Stack:** Rails 7, JavaScript/Stimulus, PostgreSQL, Hotwire, VoiceVox TTS API  
 **Live:** [nihongohero.quest](https://nihongohero.quest)
 
 ### [AdventureMaker](https://github.com/ShinOWfu/AdventureMaker)
