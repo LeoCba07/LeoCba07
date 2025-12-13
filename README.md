@@ -2,7 +2,7 @@
 
 🇦🇷 Argentinian | 🇯🇵 Based in Tokyo | 💼 Open to work
 
-**Junior Software Developer** transitioning from 4 years in hospitality to tech.  
+**Full Stack Developer** transitioning from 4 years in hospitality to tech.  
 Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
 
 💡 I learn best by **building** — my code isn't perfect yet, but I'm not afraid to ship, break things, and improve.
