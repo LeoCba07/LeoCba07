@@ -7,6 +7,8 @@ Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](ht
 
 💡 I learn best by **building** — my code isn't perfect yet, but I'm not afraid to ship, break things, and improve.
 
+🌐 **[leandrotrabucco.me](https://leandrotrabucco.me)**
+
 ---
 
 ## 🌱 Right now
@@ -42,13 +44,11 @@ Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](ht
 ## 🚀 Projects
 
 ### [Nihongo Hero](https://github.com/ShinOWfu/Nihongo-Hero)
-
 Gamified Japanese learning through RPG combat. Answer vocab questions to defeat enemies.  
 **Stack:** Rails 7, JavaScript/Stimulus, PostgreSQL, Hotwire, VoiceVox TTS API  
 **Live:** [nihongohero.quest](https://nihongohero.quest)
 
 ### [AdventureMaker](https://github.com/ShinOWfu/AdventureMaker)
-
 AI-powered interactive storytelling with psychological assessment based on your choices.  
 **Stack:** Rails 7, PostgreSQL, Google Gemini API
 
@@ -62,11 +62,11 @@ AI-powered interactive storytelling with psychological assessment based on your 
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"/> Connect with me
+## 📬 Let's connect
 
-🌐 **[leandrotrabucco.me](https://leandrotrabucco.me)**  
-✉️ **leandrotrabucco@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrotrabucco/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrotrabucco@gmail.com)
 
-<sub>Last updated: 2025-12-13</sub>
+---
 
-<sub>Last updated: 2025-12-09</sub>
+<sub>Last updated: 2025-12-14</sub>
