@@ -1,11 +1,11 @@
 # Hi — I'm Leo 👋
 
-🇦🇷 Argentinian | 🇯🇵 Based in Tokyo | 💼 Open to work
+🇦🇷 Argentinian | 🇯🇵 Based in Tokyo | 💼 Open to work | ✅ Spouse visa (no sponsorship needed)
 
-**Full Stack Developer** transitioning from 4 years in hospitality to tech.  
+**Full Stack Developer** with 4 years of hospitality experience that taught me how to communicate, handle pressure, and put users first.  
 Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
 
-💡 I learn best by **building** — my code isn't perfect yet, but I'm not afraid to ship, break things, and improve.
+💡 I learn best by **building** — I ship fast, iterate, and improve.
 
 🌐 **[leandrotrabucco.me](https://leandrotrabucco.me)**
 
@@ -13,9 +13,9 @@ Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](ht
 
 ## 🌱 Right now
 
-- Actively seeking my first **Junior Developer** role in Tokyo
+- Actively seeking **developer roles** in Tokyo
 - Exploring **React** & **TypeScript** to expand my frontend skills
-- Polishing and adding features to my bootcamp projects
+- Building a production site for a family business using Next.js + Sanity CMS
 - Attending Tokyo tech meetups and networking events
 
 ---
@@ -23,20 +23,21 @@ Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](ht
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Rails" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="45" height="45" />
 </p>
 
 ---
@@ -44,12 +45,13 @@ Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](ht
 ## 🚀 Projects
 
 ### [Nihongo Hero](https://github.com/ShinOWfu/Nihongo-Hero)
-Gamified Japanese learning through RPG combat. Answer vocab questions to defeat enemies.  
+Gamified Japanese learning through RPG combat. Answer vocab questions to defeat enemies  
+Team of 4 developers — owned database architecture, API integrations, and code reviews 
 **Stack:** Rails 7, JavaScript/Stimulus, PostgreSQL, Hotwire, VoiceVox TTS API  
 **Live:** [nihongohero.quest](https://nihongohero.quest)
 
 ### [El Alto](https://github.com/LeoCba07/el-alto-website)
-Modern cabin rental website with contact form and chatbot implementation for Complejo El Alto in Tanti, Argentina.   
+Modern cabin rental website with contact form and chatbot for a family business in Argentina.   
 **Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS & Google Analytics  
 **Live:** [el-alto-website.vercel.app](https://el-alto-website.vercel.app)
 
@@ -60,18 +62,21 @@ AI-powered interactive storytelling with psychological assessment based on your 
 
 ---
 
-## ⚡ Fun facts
+## ⚡ A bit more about me
 
-🏋️‍♂️ Heavy weights enthusiast  
-🎮 Lifelong gamer  
-☕ Enjoy exploring cafés around Tokyo
+🏋️‍♂️ Heavy weights enthusiast 4x a week  
+🎮 Almost became an e-sports athlete  
+☕ Always on the hunt for the next great café around Tokyo
 
 ---
 
 ## 📬 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrotrabucco/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrotrabucco@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/leandrotrabucco/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:leandrotrabucco@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40" /></a>
+</p>
 
 ---
 
