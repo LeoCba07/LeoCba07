@@ -45,7 +45,7 @@ Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](ht
 
 ### [Nihongo Hero](https://github.com/ShinOWfu/Nihongo-Hero)
 Gamified Japanese learning through RPG combat. Answer vocab questions to defeat enemies  
-Team of 4 developers — owned database architecture, API integrations, and code reviews 
+Team of 4 developers — owned database architecture, API integrations, and code reviews  
 **Stack:** Rails 7, JavaScript/Stimulus, PostgreSQL, Hotwire, VoiceVox TTS API  
 **Live:** [nihongohero.quest](https://nihongohero.quest)
 
