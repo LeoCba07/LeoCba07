@@ -5,8 +5,6 @@
 **Full Stack Developer** with 4 years of hospitality experience that taught me how to communicate, handle pressure, and put users first.  
 Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
 
-💡 I learn best by **building** — I ship fast, iterate, and improve.
-
 🌐 **[leandrotrabucco.me](https://leandrotrabucco.me)**
 
 ---
@@ -54,7 +52,6 @@ Modern cabin rental website with contact form and chatbot for a family business 
 **Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS & Google Analytics  
 **Live:** [el-alto-website.vercel.app](https://el-alto-website.vercel.app)
 
-
 ### [AdventureMaker](https://github.com/ShinOWfu/AdventureMaker)
 AI-powered interactive storytelling with psychological assessment based on your choices.  
 **Stack:** Rails 7, PostgreSQL, Google Gemini API
@@ -79,4 +76,4 @@ AI-powered interactive storytelling with psychological assessment based on your 
 
 ---
 
-<sub>Last updated: 2025-12-14</sub>
+<sub>Last updated: 2025-12-25</sub>
