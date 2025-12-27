@@ -5,16 +5,8 @@
 **Full Stack Developer** with 4 years of hospitality experience that taught me how to communicate, handle pressure, and put users first.  
 Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
 
-🌐 **[leandrotrabucco.me](https://leandrotrabucco.me)**
-
----
-
-## 🌱 Right now
-
-- Actively seeking **developer roles** in Tokyo
-- Exploring **React** & **TypeScript** to expand my frontend skills
-- Building a production site for a family business using Next.js + Sanity CMS
-- Attending Tokyo tech meetups and networking events
+**🌱 Right now** -> Exploring **React** & **TypeScript** to expand my frontend skills  
+**🌐 [leandrotrabucco.me](https://leandrotrabucco.me)**  
 
 ---
 
