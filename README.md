@@ -5,8 +5,11 @@
 **Full Stack Developer** with 4 years of hospitality experience that taught me how to communicate, handle pressure, and put users first.  
 Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
 
-**🌱 Right now** -> Exploring **React** & **TypeScript** to expand my frontend skills  
-**🌐 [leandrotrabucco.me](https://leandrotrabucco.me)**  
+🌱 **Right now** -> Exploring **React** & **TypeScript** to expand my frontend skills  
+
+🌐 [leandrotrabucco.me](https://leandrotrabucco.me)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="21" height="18" />    [leandro-trabucco](https://www.linkedin.com/in/leandrotrabucco/)  
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="21" height="18" />    [leandrotrabucco@gmail.com](mailto:leandrotrabucco@gmail.com)
 
 ---
 
@@ -59,14 +62,4 @@ AI-powered interactive storytelling with psychological assessment based on your 
 
 ---
 
-## 📬 Let's connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/leandrotrabucco/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:leandrotrabucco@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40" /></a>
-</p>
-
----
-
-<sub>Last updated: 2025-12-25</sub>
+<sub>Last updated: 2025-12-27</sub>
