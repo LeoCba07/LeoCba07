@@ -37,20 +37,22 @@ Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](ht
 
 ## 🚀 Projects
 
+### [El Alto](https://github.com/LeoCba07/el-alto-website)
+Modern cabin rental website with contact form and chatbot for a family business in Argentina.   
+**Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS & Google Analytics  
+**Live:** [el-alto-website.vercel.app](https://el-alto-website.vercel.app)
+
 ### [Nihongo Hero](https://github.com/ShinOWfu/Nihongo-Hero)
 Gamified Japanese learning through RPG combat. Answer vocab questions to defeat enemies  
 Team of 4 developers — owned database architecture, API integrations, and code reviews  
 **Stack:** Rails 7, JavaScript/Stimulus, PostgreSQL, Hotwire, VoiceVox TTS API  
 **Live:** [nihongohero.quest](https://nihongohero.quest)
 
-### [El Alto](https://github.com/LeoCba07/el-alto-website)
-Modern cabin rental website with contact form and chatbot for a family business in Argentina.   
-**Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS & Google Analytics  
-**Live:** [el-alto-website.vercel.app](https://el-alto-website.vercel.app)
-
 ### [AdventureMaker](https://github.com/ShinOWfu/AdventureMaker)
 AI-powered interactive storytelling with psychological assessment based on your choices.  
-**Stack:** Rails 7, PostgreSQL, Google Gemini API
+**Stack:** Rails 7, PostgreSQL, Google Gemini API  
+**Live:** [https://adventuremaker-shinowfu-91409f739c06.herokuapp.com/](https://adventuremaker-shinowfu-91409f739c06.herokuapp.com/)
+
 
 ---
 
@@ -62,4 +64,4 @@ AI-powered interactive storytelling with psychological assessment based on your 
 
 ---
 
-<sub>Last updated: 2025-12-27</sub>
+<sub>Last updated: 2025-12-28</sub>
