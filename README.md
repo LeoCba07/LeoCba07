@@ -43,7 +43,7 @@ Modern cabin rental website with contact form and chatbot for a family business 
 **Live:** [el-alto-website.vercel.app](https://el-alto-website.vercel.app)
 
 ### [Nihongo Hero](https://github.com/ShinOWfu/Nihongo-Hero)
-Gamified Japanese learning through RPG combat. Answer vocab questions to defeat enemies  
+Gamified Japanese learning through RPG combat on the go. Answer vocab questions to defeat enemies  
 Team of 4 developers — owned database architecture, API integrations, and code reviews  
 **Stack:** Rails 7, JavaScript/Stimulus, PostgreSQL, Hotwire, VoiceVox TTS API  
 **Live:** [nihongohero.quest](https://nihongohero.quest)
