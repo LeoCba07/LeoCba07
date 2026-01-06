@@ -39,7 +39,7 @@ Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](ht
 
 ### [El Alto](https://github.com/LeoCba07/el-alto-website)
 Modern cabin rental website with contact form and chatbot for a family business in Argentina.   
-**Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS & Google Analytics  
+**Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS & Google Analytics 4  
 **Live:** [el-alto-website.vercel.app](https://el-alto-website.vercel.app)
 
 ### [Nihongo Hero](https://github.com/ShinOWfu/Nihongo-Hero)
