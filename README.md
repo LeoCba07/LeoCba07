@@ -58,7 +58,7 @@ AI-powered interactive storytelling with psychological assessment based on your 
 
 ## ⚡ A bit more about me
 
-🏋️‍♂️ Heavy weights enthusiast 4x a week  
+🏋️‍♂️ Heavy weights enthusiast 4x per week  
 🎮 Almost became an e-sports athlete  
 ☕ Always on the hunt for the next great café around Tokyo
 
