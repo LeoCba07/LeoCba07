@@ -40,13 +40,13 @@ Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](ht
 ### [El Alto](https://github.com/LeoCba07/el-alto-website)
 Modern cabin rental website with contact form and chatbot for a family business in Argentina.   
 **Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS & Google Analytics 4  
-**Live:** [el-alto-website.vercel.app](https://el-alto-website.vercel.app)
+**Live:** [www.complejoelalto.com.ar](https://www.complejoelalto.com.ar)
 
 ### [Nihongo Hero](https://github.com/ShinOWfu/Nihongo-Hero)
 Gamified Japanese learning through RPG combat on the go. Answer questions to defeat enemies  
 Team of 4 developers — owned database architecture, API integrations, and code reviews  
 **Stack:** Rails 7, JavaScript/Stimulus, PostgreSQL, Hotwire, VoiceVox TTS API  
-**Live:** [nihongohero.quest](https://nihongohero.quest)
+**Live:** [www.nihongohero.quest](https://www.nihongohero.quest)
 
 ### [AdventureMaker](https://github.com/ShinOWfu/AdventureMaker)
 AI-powered interactive storytelling with psychological assessment based on your choices.  
