@@ -1,6 +1,6 @@
 # Hi — I'm Leo 👋
 
-🇦🇷 Argentinian | 🇯🇵 Based in Tokyo | 💼 Open to work | ✅ Spouse visa (no sponsorship needed)
+🇦🇷 Argentinian | 🇯🇵 Based in Tokyo | 💼 Open to work
 
 **Full Stack Developer** with 4 years of hospitality experience that taught me how to communicate, handle pressure, and put users first.  
 Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
@@ -64,4 +64,4 @@ AI-powered interactive storytelling with psychological assessment based on your 
 
 ---
 
-<sub>Last updated: 2025-12-28</sub>
+<sub>Last updated: 2026-01-15</sub>
