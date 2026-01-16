@@ -1,11 +1,11 @@
 # Hi — I'm Leo 👋
 
-🇦🇷 Argentinian | 🇯🇵 Based in Tokyo | 💼 Open to work
+🇦🇷 Argentinian | 🇯🇵 Based in Tokyo | 💼 Open for freelance work
 
 **Full Stack Developer** with 4 years of hospitality experience that taught me how to communicate, handle pressure, and put users first.  
 Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
 
-🌱 **Right now** -> Exploring **React** & **TypeScript** to expand my Front End skills  
+🚀 Currently leading the launch and maintenance of El Alto, handling feature updates, performance improvements, and user analytics 
 
 🌐 [leandrotrabucco.me](https://leandrotrabucco.me)  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="21" height="18" />    [leandro-trabucco](https://www.linkedin.com/in/leandrotrabucco/)  
