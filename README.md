@@ -3,7 +3,7 @@
 🇦🇷 Argentinian | 🇯🇵 Based in Tokyo | 💼 Open for freelance work
 
 **Full Stack Developer** with 4 years of hospitality experience that taught me how to communicate, handle pressure, and put users first.  
-Recently graduated from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
+Graduate from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
 
 🚀 Currently leading the launch and maintenance of El Alto, handling feature updates, performance improvements, and user analytics 
 
