@@ -8,7 +8,7 @@ Graduate from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.
 🚀 Currently leading the launch and maintenance of El Alto, handling feature updates, performance improvements, and user analytics 
 
 🌐 [leandrotrabucco.me](https://leandrotrabucco.me)  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="21" height="18" />    [leandro-trabucco](https://www.linkedin.com/in/leandrotrabucco/)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="21" height="18" />    [leandro-trabucco](https://www.linkedin.com/in/leandro-trabucco/)  
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="21" height="18" />    [leandrotrabucco@gmail.com](mailto:leandrotrabucco@gmail.com)
 
 ---
