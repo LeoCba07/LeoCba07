@@ -5,7 +5,8 @@
 **Full Stack Developer** with 4 years of hospitality experience that taught me how to communicate, handle pressure, and put users first.  
 Graduate from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
 
-🚀 Currently leading the launch and maintenance of El Alto, handling feature updates, performance improvements, and user analytics 
+🚀 Currently building **Jidou Navi**, a crowdsourced vending machine discovery app for Japan.  
+Preparing for iOS & Android launch. Join the waitlist  👉 https://www.jidou-navi.app
 
 🌐 [leandrotrabucco.me](https://leandrotrabucco.me)  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="21" height="18" />    [leandro-trabucco](https://www.linkedin.com/in/leandro-trabucco/)  
