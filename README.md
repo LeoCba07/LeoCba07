@@ -1,6 +1,6 @@
 # Hi — I'm Leo 👋
 
-🇦🇷 Argentinian | 🇯🇵 Based in Tokyo | 💼 Open for freelance work
+🇦🇷 Argentinian | 🇲🇽 Based in Mexico | 💼 Open for freelance work
 
 **Full Stack Developer** with 4 years of hospitality experience that taught me how to communicate, handle pressure, and put users first.  
 Graduate from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
