@@ -2,12 +2,13 @@
 
 🇦🇷 Argentinian | 🇲🇽 Based in Mexico | 💼 Open for freelance work
 
-**Full Stack Developer** turning ideas into shipped products — from concept to production.
-Graduate from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
+**Full Stack Developer** turning ideas into shipped products — from concept to production.  
+Graduated from [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
 
-🚀 Building Jidou Navi — a crowdsourced unique vending machine discovery app for Japan
-→ Full product lifecycle: design, backend, API, mobile deployment
-→ Preparing for iOS & Android launch (Beta Q1 2026). Join the waitlist  👉 https://www.jidou-navi.app
+🚀 Building Jidou Navi — a crowdsourced unique vending machine discovery app for Japan  
+→ Full product lifecycle: design, backend, API, mobile deployment  
+→ Preparing for iOS & Android launch (Beta Q1 2026).  
+→ Join the waitlist at https://www.jidou-navi.app
 
 🌐 [leandrotrabucco.me](https://leandrotrabucco.me)  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="21" height="18" />    [leandro-trabucco](https://www.linkedin.com/in/leandro-trabucco/)  
