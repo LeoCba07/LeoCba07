@@ -2,11 +2,12 @@
 
 🇦🇷 Argentinian | 🇲🇽 Based in Mexico | 💼 Open for freelance work
 
-**Full Stack Developer** with 4 years of hospitality experience that taught me how to communicate, handle pressure, and put users first.  
+**Full Stack Developer** turning ideas into shipped products — from concept to production.
 Graduate from the [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
 
-🚀 Currently building **Jidou Navi**, a crowdsourced vending machine discovery app for Japan.  
-Preparing for iOS & Android launch. Join the waitlist  👉 https://www.jidou-navi.app
+🚀 Building Jidou Navi — a crowdsourced unique vending machine discovery app for Japan
+→ Full product lifecycle: design, backend, API, mobile deployment
+→ Preparing for iOS & Android launch (Beta Q1 2026). Join the waitlist  👉 https://www.jidou-navi.app
 
 🌐 [leandrotrabucco.me](https://leandrotrabucco.me)  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="21" height="18" />    [leandro-trabucco](https://www.linkedin.com/in/leandro-trabucco/)  
@@ -23,14 +24,11 @@ Preparing for iOS & Android launch. Join the waitlist  👉 https://www.jidou-na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45" />
 </p>
 
@@ -61,8 +59,8 @@ AI-powered interactive storytelling with psychological assessment based on your 
 
 🏋️‍♂️ Heavy weights enthusiast 4x per week  
 🎮 Almost became an e-sports athlete  
-☕ Always on the hunt for the next great café around Tokyo
+☕ Always on the hunt for the next great café around my area
 
 ---
 
-<sub>Last updated: 2026-02-02</sub>
+<sub>Last updated: 2026-03-18</sub>
