@@ -1,6 +1,6 @@
 # Hi — I'm Leo 👋
 
-🇦🇷 Argentinian | 🇲🇽 Based in Mexico | 💼 Open for freelance work
+🇦🇷 Argentinian | 💼 Open for freelance work
 
 **Full Stack Developer** turning ideas into shipped products — from concept to production.  
 Graduated from [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
