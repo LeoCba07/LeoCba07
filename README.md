@@ -64,4 +64,4 @@ AI-powered interactive storytelling with psychological assessment based on your 
 
 ---
 
-<sub>Last updated: 2026-03-18</sub>
+<sub>Last updated: 2026-04-11</sub>
