@@ -7,7 +7,7 @@ Graduated from [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lew
 
 🚀 Building Jidou Navi — a crowdsourced unique vending machine discovery app for Japan  
 → Full product lifecycle: design, backend, API, mobile deployment  
-→ Preparing for iOS & Android launch (Beta Q1 2026).  
+→ Now in Closed Alpha for Android (iOS TBD) 🔒  
 → Join the waitlist at https://www.jidou-navi.app
 
 🌐 [leandrotrabucco.me](https://leandrotrabucco.me)  
