@@ -69,4 +69,4 @@ Explored how decision-making in interactive stories can be used to infer persona
 
 ---
 
-<sub>Last updated: 2026-04-11</sub>
+<sub>Last updated: 2026-05-17</sub>
