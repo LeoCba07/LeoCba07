@@ -6,7 +6,7 @@ I validate ideas, design MVPs, and build full-stack apps — from concept to pro
 Graduated from [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).  
 Currently continuing a Computer Programming degree at [Universidad Tecnológica Nacional](https://www.utn.edu.ar/) — remotely from Córdoba, Argentina 🇦🇷
 
-🌱 Currently building **AgroSaaS** — a farm-management app for Argentine producers, developed alongside a senior developer with a structured, well-documented workflow *(in progress)*
+🌱 Building AgroSaaS — a farm-management app for agricultural producers. I work alongside a senior developer, with a local farmer as product owner driving real-world testing and go-to-market (in progress)
 
 🌐 [leandrotrabucco.me](https://leandrotrabucco.me)  
 🔗 [linkedin.com/in/leandro-trabucco](https://www.linkedin.com/in/leandro-trabucco/)  
