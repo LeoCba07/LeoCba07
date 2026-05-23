@@ -1,14 +1,12 @@
 # Hi — I'm Leo 👋
 
-**Full Stack Developer**  |  🇦🇷 Argentinian  |  💼 Open for freelance work 
+**Full Stack Developer**   |   💼 Open to junior full-stack/frontend roles
 
-I validate ideas, design MVPs, and build full-stack apps — from concept to production  
-Graduated from [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).
+I validate ideas, design MVPs, and build full-stack apps — from concept to production.  
+Graduated from [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).  
+Currently continuing a Computer Programming degree at [Universidad Tecnológica Nacional](https://www.utn.edu.ar/) — fully remote from Córdoba, Argentina 🇦🇷
 
-🚀 Building Jidou Navi — a crowdsourced unique vending machine discovery app for Japan  
-→ Full product lifecycle: design, backend, API, mobile deployment  
-→ Now in Closed Alpha for Google Play Store (iOS TBD) 🔒  
-→ Join the waitlist at https://www.jidou-navi.app
+🌱 Currently building **AgroSaaS** — a farm-management app for Argentine producers, developed alongside a senior developer with a structured, well-documented workflow *(in progress)*
 
 🌐 [leandrotrabucco.me](https://leandrotrabucco.me)  
 🔗 [linkedin.com/in/leandro-trabucco](https://www.linkedin.com/in/leandro-trabucco/)  
@@ -41,32 +39,37 @@ Graduated from [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lew
 ## 🚀 Projects
 
 ### [El Alto](https://github.com/LeoCba07/el-alto-website)
-Modern cabin rental website with contact form and chatbot for a family business in Argentina.   
-Designed MVP to streamline direct bookings and reduce friction for users.   
-**Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS & Google Analytics 4  
+Modern cabin rental website with a smart contact form and chatbot for a 30-year-old family business in Argentina.  
+The contact form and chatbot pre-fill WhatsApp with dates and guest count — built to cut down an 80% incomplete-inquiry rate and streamline direct bookings.  
+**Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS, Google Analytics 4  
 **Live:** [www.complejoelalto.com.ar](https://www.complejoelalto.com.ar)
 
-### [Nihongo Hero](https://github.com/ShinOWfu/Nihongo-Hero)
-Gamified Japanese learning through RPG combat on the go. Answer questions to defeat enemies.  
-Team of 4 developers — owned database architecture, API integrations, and code reviews.  
-Focused on engagement through gamification and learning retention.  
+### [Nihongo Hero](https://github.com/LeoCba07/Nihongo-Hero)
+Gamified Japanese learning through RPG-style turn-based combat — answer questions to defeat enemies.  
+Led a 4-person team for the final Le Wagon project: owned database architecture, API integrations, and code reviews as top contributor. Deployed as a mobile-first PWA.  
 **Stack:** Rails 7, JavaScript/Stimulus, PostgreSQL, Hotwire, VoiceVox TTS API  
 **Live:** [www.nihongohero.quest](https://www.nihongohero.quest)
 
-### [AdventureMaker](https://github.com/ShinOWfu/AdventureMaker)
-AI-powered interactive storytelling with psychological assessment based on your choices.  
-Explored how decision-making in interactive stories can be used to infer personality traits.  
+### [Adventure Maker](https://github.com/LeoCba07/AdventureMaker)
+AI-powered interactive storytelling with branching narratives and psychological assessment based on your choices.  
+Built prompt engineering for dynamic story generation and Gemini image generation, solving narrative consistency across free-form user input.  
 **Stack:** Rails 7, PostgreSQL, Google Gemini API  
-**Live:** [https://adventuremaker-shinowfu-91409f739c06.herokuapp.com/](https://adventuremaker-shinowfu-91409f739c06.herokuapp.com/)
+**Live:** [adventuremaker.herokuapp.com](https://adventuremaker-shinowfu-91409f739c06.herokuapp.com/)
+
+### Jidou Navi
+A crowdsourced discovery app for Japan's unique vending machines — full product lifecycle: design, backend, API, and mobile deployment.  
+🔒 Currently in closed alpha testing — Google Play Store launch expected in 2026 (iOS TBD).  
+**Join the waitlist:** [www.jidou-navi.app](https://www.jidou-navi.app)
 
 ---
 
 ## ⚡ A bit more about me
 
-🏋️‍♂️ Heavy weights enthusiast 5x per week  
+🏋️‍♂️ Heavy weights enthusiast, 5x per week  
 🎮 Almost became an e-sports athlete  
-☕ Always on the hunt for the next great café around my area
+☕ Always on the hunt for the next great café around my area  
+🌏 Fluent English & Japanese, conversational Portuguese — from years in multicultural teams in Japan
 
 ---
 
-<sub>Last updated: 2026-05-17</sub>
+<sub>Last updated: 2026-05-23</sub>
