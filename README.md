@@ -68,10 +68,10 @@ A crowdsourced discovery app for Japan's unique vending machines — co-built wi
 
 ## ⚡ A bit more about me
 
-🌏 Fluent English & Japanese, conversational Portuguese — from years in multicultural teams in Japan   
+🌏 Native Spanish, fluent English & Japanese, conversational Portuguese — from years in multicultural teams in Japan   
 🏋️‍♂️ Heavy weights enthusiast, 5x per week  
 🎮 Almost became an e-sports athlete   
 
 ---
 
-<sub>Last updated: 2026-05-24</sub>
+<sub>Last updated: 2026-05-29</sub>
