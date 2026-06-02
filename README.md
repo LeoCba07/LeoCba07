@@ -81,7 +81,7 @@ AI-powered interactive storytelling with branching narratives and psychological 
 ## ⚡ A bit more about me
 
 🏋️‍♂️ Heavy weights enthusiast — 5x per week  
-🎮 Almost became an e-sports athlete
+🎮 Almost became an e-sports athlete  
 🍸 Four years in Tokyo's hospitality industry before pivoting to code
 
 ---
