@@ -58,7 +58,7 @@ A crowdsourced mobile app for discovering Japan's unique vending machines, with 
 
 Gamified Japanese learning through RPG-style turn-based combat — answer questions to defeat enemies. Led a 4-person team for the final Le Wagon project: owned database architecture, API integrations, and code reviews as top contributor. Deployed as a mobile-first PWA.
 
-**Stack:** Rails 7, Hotwire (Turbo + Stimulus), PostgreSQL, VoiceVox TTS API  
+**Stack:** Rails 7, JavaScript, Hotwire (Turbo + Stimulus), PostgreSQL, VoiceVox TTS API  
 **Live:** [www.nihongohero.quest](https://www.nihongohero.quest)
 
 <br clear="all"/>
@@ -70,7 +70,7 @@ Gamified Japanese learning through RPG-style turn-based combat — answer questi
 
 AI-powered interactive storytelling with branching narratives and psychological assessment based on your choices. Built prompt engineering for dynamic story generation and Gemini image generation, solving narrative consistency across free-form user input.
 
-**Stack:** Rails 7, PostgreSQL, Google Gemini API  
+**Stack:** Rails 7, PostgreSQL, SCSS, Bootstrap, Google Gemini API  
 **Live:** [adventuremaker.herokuapp.com](https://adventuremaker-shinowfu-91409f739c06.herokuapp.com/)
 
 <br clear="all"/>
@@ -82,6 +82,7 @@ AI-powered interactive storytelling with branching narratives and psychological 
 
 🏋️‍♂️ Heavy weights enthusiast — 5x per week  
 🎮 Almost became an e-sports athlete
+🍸 Four years in Tokyo's hospitality industry before pivoting to code
 
 ---
 
