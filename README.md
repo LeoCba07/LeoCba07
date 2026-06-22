@@ -82,8 +82,8 @@ AI-powered interactive storytelling with branching narratives and psychological 
 
 🏋️‍♂️ Heavy weights enthusiast — 5x per week  
 🎮 Almost became an e-sports athlete  
-🍸 Four years in Tokyo's hospitality industry before pivoting to code
+🍸 Four years in Tokyo's hospitality industry before code
 
 ---
 
-<sub>Last updated: 2026-06-02</sub>
+<sub>Last updated: 2026-06-21</sub>
