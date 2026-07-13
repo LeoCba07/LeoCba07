@@ -44,10 +44,11 @@ Modern cabin rental website with a smart contact form and chatbot for a 30-year-
 
 ### [Jidou Navi](https://www.jidou-navi.app)
 
-A crowdsourced mobile app for discovering Japan's unique vending machines, with an interactive map and gamified check-ins. Sole developer since early 2026 (started with a partner) — owning frontend, backend, and mobile deployment. 🔒 Currently in closed testing on Google Play — public launch is the next step (iOS TBD).
+A crowdsourced mobile app for discovering Japan's unique vending machines, with an interactive map and gamified check-ins. Sole developer since early 2026 (started with a partner) — owning frontend, backend, and mobile deployment. Now LIVE on Google Play Store (iOS TBD).
 
 **Stack:** React Native, Expo, TypeScript, Supabase (PostgreSQL/PostGIS), Mapbox  
-**Join the waitlist:** [www.jidou-navi.app](https://www.jidou-navi.app)
+**Google Play Store:** [https://play.google.com/store/apps/details?id=com.jidounavi.app](https://play.google.com/store/apps/details?id=com.jidounavi.app)  
+**Join the iOS waitlist:** [www.jidou-navi.app](https://www.jidou-navi.app)
 
 <br clear="all"/>
 <br/>
