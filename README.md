@@ -1,6 +1,6 @@
 # Hi — I'm Leo 👋
 
-**Full Stack Developer**&emsp;|&emsp;💼 Open to junior Frontend / Full-stack roles&emsp;|&emsp;🇦🇷 Córdoba, Argentina
+**Full Stack Developer**&emsp;&emsp;💼 Open to junior Frontend / Full-stack roles&emsp;&emsp;🇦🇷 Córdoba, Argentina
 
 I validate ideas, design MVPs, and build full-stack apps — from concept to production.  
 🌏 Native Spanish, fluent English & Japanese, conversational Portuguese — from years in multicultural teams in Japan.
