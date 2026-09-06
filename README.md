@@ -65,18 +65,6 @@ Gamified Japanese learning through RPG-style turn-based combat — answer questi
 <br clear="all"/>
 <br/>
 
-<a href="https://adventuremaker-shinowfu-91409f739c06.herokuapp.com/"><img align="right" src="assets/adventure-maker-browser.png" width="420" /></a>
-
-### [Adventure Maker](https://github.com/LeoCba07/AdventureMaker)
-
-AI-powered interactive storytelling with branching narratives and psychological assessment based on your choices. Built prompt engineering for dynamic story generation and Gemini image generation, solving narrative consistency across multiple free-form user input.
-
-**Stack:** Rails 7, PostgreSQL, SCSS, Bootstrap, Google Gemini API  
-**Live:** [adventuremaker.herokuapp.com](https://adventuremaker-shinowfu-91409f739c06.herokuapp.com/)
-
-<br clear="all"/>
-<br/>
-
 ---
 
 ## ⚡ A bit more about me
