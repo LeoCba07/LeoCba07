@@ -3,7 +3,7 @@
 **Full Stack Developer**&emsp;&emsp;💼 Open to work&emsp;&emsp;🇦🇷 Córdoba, Argentina
 
 I validate ideas, design MVPs, and build full-stack apps — from concept to production.  
-🌏 Native Spanish, fluent English & Japanese, conversational Portuguese — from years in multicultural teams in Japan.
+Native Spanish, fluent English & Japanese, conversational Portuguese — from years in multicultural teams in Japan.
 
 Graduated from [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).  
 Currently continuing a Computer Programming degree at [Universidad Tecnológica Nacional](https://www.utn.edu.ar/).
