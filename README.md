@@ -67,12 +67,4 @@ Gamified Japanese learning through RPG-style turn-based combat — answer questi
 
 ---
 
-## ⚡ A bit more about me
-
-🏋️‍♂️ Heavy weights enthusiast — 5x per week  
-🎮 Almost became an e-sports athlete  
-🍸 Four years in Tokyo's hospitality industry before code
-
----
-
-<sub>Last updated: 2026-06-21</sub>
+<sub>Last updated: 2026-09-17</sub>
