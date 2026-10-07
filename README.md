@@ -9,7 +9,7 @@ Native Spanish, bilingual English, fluent Japanese & conversational Portuguese �
 Graduated from [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).  
 Currently continuing a Computer Programming degree at [Universidad Tecnológica Nacional](https://www.utn.edu.ar/).
 
-🌱 Building Chacra, a farm-management app for agricultural producers, built alongside a senior developer, with a local farmer as product owner driving real-world pilot testing.
+🌱 Building Chacra, a farm-management app for agricultural producers in Argentina, built alongside a senior developer, with a local farmer as product owner driving real-world pilot testing.
 
 🌐 [leandrotrabucco.me](https://leandrotrabucco.me)  
 🔗 [linkedin.com/in/leandro-trabucco](https://www.linkedin.com/in/leandro-trabucco/)  
