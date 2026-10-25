@@ -68,4 +68,4 @@ Gamified Japanese learning through RPG-style turn-based combat — answer questi
 
 ---
 
-<sub>Last updated: 2026-10-05</sub>
+<sub>Last updated: 2026-10-25</sub>
