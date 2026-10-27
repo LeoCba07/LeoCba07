@@ -1,7 +1,7 @@
 # Hi — I'm Leo 👋
 
 ### **Full Stack Developer**  
-💼 Open to work&emsp;🇦🇷 Córdoba, Argentina
+💼 Open to work&emsp;🇦🇷 Oncativo, Córdoba, Argentina
 
 I validate ideas, design MVPs, and build full-stack apps — from concept to production.  
 Native Spanish, bilingual English, conversational Japanese & Portuguese — from years in multicultural teams abroad in Japan.
