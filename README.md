@@ -35,7 +35,7 @@ Currently continuing a Technical degree in Computer Programming at [Universidad 
 
 Modern cabin rental website with a smart contact form and chatbot for a 30-year-old family business in Argentina. The contact form and chatbot pre-fill WhatsApp with dates and guest count — built to cut down an 80% incomplete-inquiry rate and streamline direct bookings.
 
-**Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS, Vercel, Google Analytics  
+**Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS, Vercel, Google Analytics, Playwright  
 **Live:** [www.complejoelalto.com.ar](https://www.complejoelalto.com.ar)
 
 <br clear="all"/>
