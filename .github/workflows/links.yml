@@ -1,0 +1,25 @@
+name: links
+
+# Checks every link and image in README.md once a week (and on each change).
+# If a link breaks, the badge in the README turns red and GitHub emails you.
+on:
+  push:
+    branches: [main]
+    paths: [README.md, .github/workflows/links.yml]
+  schedule:
+    - cron: "0 12 * * 1" # Mondays 12:00 UTC (09:00 in Argentina)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          # LinkedIn blocks automated checks (status 999), so it is skipped.
+          args: --no-progress --max-retries 3 --exclude linkedin\.com README.md
+          fail: true
