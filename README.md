@@ -1,27 +1,11 @@
-# Hi — I'm Leo 👋
+# Hi, I'm Leo 👋
 
-### **Full Stack Developer**  
-💼 Open to work&emsp;🇦🇷 Oncativo, Córdoba, Argentina
+### **QA Specialist at Communities.Tech · Co-founder & Developer at [JLRT Software](https://jlrt-software.com.ar)**
+🇦🇷 Oncativo, Córdoba (UTC−3)&emsp;🌐 [leandrotrabucco.me](https://leandrotrabucco.me)&emsp;🔗 [LinkedIn](https://www.linkedin.com/in/leandro-trabucco/)&emsp;✉️ [Email](mailto:leandrotrabucco@gmail.com)
 
-I validate ideas, design MVPs, and build full-stack apps — from concept to production.  
-Native Spanish, bilingual English, conversational Japanese & Portuguese — from years in multicultural teams abroad in Japan.
+I test software, design MVPs, and build full-stack apps, from concept to production. [Le Wagon Tokyo](https://www.lewagon.com/tokyo) graduate, now studying programming at [UTN](https://www.utn.edu.ar/). Native Spanish, bilingual English, conversational Japanese & Portuguese, from years in multicultural teams in Japan.
 
-Graduated from [Le Wagon Tokyo AI Software Development Bootcamp](https://www.lewagon.com/tokyo).  
-Currently continuing a Technical degree in Computer Programming at [Universidad Tecnológica Nacional](https://www.utn.edu.ar/).
-
-🌐 [leandrotrabucco.me](https://leandrotrabucco.me)  
-🔗 [linkedin.com/in/leandro-trabucco](https://www.linkedin.com/in/leandro-trabucco/)  
-✉️ [leandrotrabucco@gmail.com](mailto:leandrotrabucco@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
-**Frontend & Mobile:**&nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)  
-**Backend & Data:**&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)  
-**Tooling:**&nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-**Learning:**&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="assets/tech-stack.svg" height="44" alt="TypeScript, JavaScript, Ruby, React / React Native, Next.js, Tailwind CSS, Expo, PostgreSQL, Supabase, Rails, Playwright, Postman, Jira, Confluence, Git, Figma" />
 
 ---
 
@@ -31,7 +15,7 @@ Currently continuing a Technical degree in Computer Programming at [Universidad 
 
 ### [El Alto](https://github.com/LeoCba07/el-alto-website)
 
-Modern cabin rental website with a smart contact form and chatbot for a 30-year-old family business in Argentina. The contact form and chatbot pre-fill WhatsApp with dates and guest count — built to cut down an 80% incomplete-inquiry rate and streamline direct bookings.
+Cabin rental website for a 30-year-old family business in Argentina. Its contact form and chatbot pre-fill WhatsApp with dates and guest count, since the owners estimated about 80% of inquiries arrived without them. Now part of JLRT Software's portfolio.
 
 **Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS, Vercel, Google Analytics, Playwright  
 **Live:** [www.complejoelalto.com.ar](https://www.complejoelalto.com.ar)
@@ -43,27 +27,25 @@ Modern cabin rental website with a smart contact form and chatbot for a 30-year-
 
 ### [Jidou Navi](https://www.jidou-navi.app)
 
-A crowdsourced mobile app for discovering Japan's unique vending machines, with an interactive map and gamified check-ins. Started in early 2026 — owning frontend, backend, and mobile deployment. Now LIVE on Google Play Store (iOS TBD).
+A crowdsourced mobile app for discovering Japan's unique vending machines, with an interactive map and gamified check-ins. Lead developer since early 2026: built most of the app, with early help from a development partner. Now LIVE on Google Play Store (iOS TBD).
 
 **Stack:** React Native, Expo, TypeScript, Supabase (PostgreSQL/PostGIS), Mapbox  
-**Google Play Store:** [https://play.google.com/store/apps/details?id=com.jidounavi.app](https://play.google.com/store/apps/details?id=com.jidounavi.app)  
-**Join the iOS waitlist:** [www.jidou-navi.app](https://www.jidou-navi.app)
+**Live:** [Google Play](https://play.google.com/store/apps/details?id=com.jidounavi.app) · iOS waitlist at [jidou-navi.app](https://www.jidou-navi.app)
 
 <br clear="all"/>
 <br/>
 
-<a href="https://www.nihongohero.quest"><img align="left" src="assets/nihongo-hero-deck.png" width="420" /></a>
+<a href="https://calibrar.vercel.app"><img align="left" src="assets/calibrar-browser.png" width="420" /></a>
 
-### [Nihongo Hero](https://github.com/LeoCba07/Nihongo-Hero)
+### [Calibr.ar](https://calibrar.vercel.app)
 
-Gamified Japanese learning through RPG-style turn-based combat — answer questions to defeat enemies. Led a 4-person team for the final Le Wagon project: owned database architecture, API integrations, and code reviews as top contributor. Deployed as a mobile-first PWA.
+Workshop management SaaS for auto repair shops in Argentina: repair orders, quotes, inventory and vehicle history. Built at [JLRT Software](https://jlrt-software.com.ar), where I designed the interface and design system and built many of its screens and the landing page. Live in production.
 
-**Stack:** Rails 7, JavaScript, Hotwire (Turbo + Stimulus), PostgreSQL, VoiceVox TTS API  
-**Live:** [www.nihongohero.quest](https://www.nihongohero.quest)
+**Stack:** Next.js, TypeScript, Tailwind CSS, Supabase (PostgreSQL)  
+**Live:** [calibrar.vercel.app](https://calibrar.vercel.app)
 
 <br clear="all"/>
-<br/>
 
 ---
 
-<sub>Last updated: 2026-10-25</sub>
+<a href="https://github.com/LeoCba07/LeoCba07/actions/workflows/links.yml"><img align="right" src="https://github.com/LeoCba07/LeoCba07/actions/workflows/links.yml/badge.svg" alt="README links check" /></a><sub>Last updated: 2026-11-26</sub>
