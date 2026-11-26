@@ -15,7 +15,7 @@ I test software, design MVPs, and build full-stack apps, from concept to product
 
 ### [El Alto](https://github.com/LeoCba07/el-alto-website)
 
-Cabin rental website for a 30-year-old family business in Argentina. Its contact form and chatbot pre-fill WhatsApp with dates and guest count, since the owners estimated about 80% of inquiries arrived without them. Now part of JLRT Software's portfolio.
+Cabin rental website for a 30-year-old family business in Argentina. Its contact form and chatbot pre-fill WhatsApp with dates and guest count, since the owners estimated about 80% of inquiries arrived without them.
 
 **Stack:** Next.js, TypeScript, Tailwind CSS, Sanity CMS, Vercel, Google Analytics, Playwright  
 **Live:** [www.complejoelalto.com.ar](https://www.complejoelalto.com.ar)
